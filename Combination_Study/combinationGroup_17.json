@@ -1,0 +1,1 @@
+{"combination": 17, "group0": ["kw_avg_max"], "group1": ["kw_avg_min"], "group2": ["kw_min_avg"], "group3": ["self_reference_avg_sharesless"], "group4": ["n_tokens_content"], "group5": ["num_imgs"], "group6": ["global_sentiment_polarity"], "group7": ["avg_negative_polarity"], "group8": ["abs_title_sentiment_polarity"]}

@@ -1,0 +1,1 @@
+{"combination": 1, "group0": ["data_channel_is_entertainment", "data_channel_is_world", "data_channel_is_tech", "data_channel_is_bus"], "group1": ["weekday_is_sunday", "is_weekend"], "group2": ["kw_avg_avg", "kw_max_avg", "kw_min_avg"], "group3": ["LDA_03", "num_imgs"], "group4": ["abs_title_sentiment_polarity", "title_subjectivity"], "group5": ["self_reference_avg_sharess"]}

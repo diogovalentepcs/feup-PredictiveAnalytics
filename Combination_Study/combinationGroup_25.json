@@ -1,0 +1,1 @@
+{"combination": 25, "group0": ["kw_avg_max", "norm(kw_avg_max)"], "group1": ["kw_min_avg", "norm(kw_min_avg]"], "group2": ["kw_avg_avg", "norm(kw_avg_avg)"], "group3": ["self_reference_avg_sharess", "norm(self_reference_avg_sharess)", "ln(self_reference_avg_sharess + 1)"]}
